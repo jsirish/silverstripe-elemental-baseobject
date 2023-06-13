@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.0.0-alpha1](https://github.com/dynamic/silverstripe-elemental-baseobject/tree/4.0.0-alpha1) (2023-06-12)
+* BUGFIX adjust insertBefore argument order by @jsirish in https://github.com/dynamic/silverstripe-elemental-baseobject/pull/30
+* Refactor/allow elemental5 by @jsirish in https://github.com/dynamic/silverstripe-elemental-baseobject/pull/31
+
+**Full Changelog**: https://github.com/dynamic/silverstripe-elemental-baseobject/compare/3.0.1...4.0.0-alpha1
+
+## [3.0.1](https://github.com/dynamic/silverstripe-elemental-baseobject/tree/3.0.1) (2023-02-07)
+* Fix: Ability to translate Title label by @wernerkrauss in https://github.com/dynamic/silverstripe-elemental-baseobject/pull/29
+
+## New Contributors
+* @wernerkrauss made their first contribution in https://github.com/dynamic/silverstripe-elemental-baseobject/pull/29
+
+**Full Changelog**: https://github.com/dynamic/silverstripe-elemental-baseobject/compare/3.0.0...3.0.1
+
 ## [3.0.0](https://github.com/dynamic/silverstripe-elemental-baseobject/tree/3.0.0) (2022-12-14)
 
 * CI initial GItHub Action by @jsirish in https://github.com/dynamic/silverstripe-elemental-baseobject/pull/24
